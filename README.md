@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Ian. I'm a Junior Android Developer and lifelong student. 
+My coding journey started with C++ to Java to Kotlin.
+I'm a polyglot and interested in developing teaching aids for minority languages. 
+I look forward to publishing my first apps soon! 
 
 <!--
 **intliziyo/intliziyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
