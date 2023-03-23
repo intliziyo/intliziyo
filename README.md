@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Ian. I'm a Junior Android Developer and lifelong student. 
 My coding journey started with C++ to Java to Kotlin.
-I'm a polyglot and developing teaching aids for minority languages.
+I'm a polyglot and developing teaching aids for second, minority and endangered languages.
 I'm continuously inspired by the problem-solving capabilities of coding!
 I look forward to publishing my first apps soon! 
 
